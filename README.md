@@ -22,14 +22,9 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PritishSingh13" alt="visitor badge" />
+<!-- Removed visitor badge -->
 
-  <!-- GitHub Trophy Showcase -->
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=PritishSingh13&theme=gruvbox" alt="GitHub Trophy" />
-</p>
+<!-- Removed snake game contribution -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PritishSingh13&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Pritish's GitHub Stats" style="border-radius: 15px; box-shadow: 0 0 15px #ff4081;" />
@@ -38,11 +33,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PritishSingh13&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 0 15px #ff4081;" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/PritishSingh13/github-readme-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
 
 ---
 
@@ -57,7 +47,6 @@ Constant learner who loves crafting <em>clean, scalable, and efficient code</em>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritishSingh13&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 
 ## 🛠️ Skills & Tools
 
@@ -105,8 +94,3 @@ Integrated OpenAI Whisper API for multilingual speech-to-text conversion in real
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github.com/PritishSingh13/github-readme-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
