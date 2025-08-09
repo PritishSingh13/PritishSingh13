@@ -22,6 +22,16 @@
   </a>
 </p>
 
+<p align="center">
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PritishSingh13" alt="visitor badge" />
+
+  <!-- GitHub Trophy Showcase -->
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=PritishSingh13&theme=gruvbox" />
+</p>
+
+
 ---
 
 ## 🚀 About Me
