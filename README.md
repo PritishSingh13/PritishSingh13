@@ -28,9 +28,16 @@
 
   <!-- GitHub Trophy Showcase -->
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=PritishSingh13&theme=gruvbox" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PritishSingh13&theme=gruvbox" alt="GitHub Trophy" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PritishSingh13&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Pritish's GitHub Stats" style="border-radius: 15px; box-shadow: 0 0 15px #ff4081;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PritishSingh13&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 0 15px #ff4081;" />
+</p>
 
 ---
 
@@ -42,6 +49,10 @@ Constant learner who loves crafting <em>clean, scalable, and efficient code</em>
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritishSingh13&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ## 🛠️ Skills & Tools
 
@@ -55,18 +66,6 @@ Constant learner who loves crafting <em>clean, scalable, and efficient code</em>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />&nbsp;
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />&nbsp;
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=microsoft-power-bi&logoColor=black" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PritishSingh13&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=4ade80" alt="Pritish's GitHub stats" style="border-radius: 15px; box-shadow: 0 0 15px #4ade80;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PritishSingh13&theme=highcontrast&hide_border=true&background=0d1117&stroke=4ade80&ring=4ade80&fire=4ade80&currStreakNum=4ade80&sideNums=4ade80" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 0 15px #4ade80;" />
 </p>
 
 ---
