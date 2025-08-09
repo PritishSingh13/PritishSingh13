@@ -39,6 +39,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PritishSingh13&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 0 15px #ff4081;" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/PritishSingh13/github-readme-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+
 ---
 
 ## 🚀 About Me
