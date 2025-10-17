@@ -120,6 +120,9 @@
   <a href="https://www.codechef.com/users/pritishsg13" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-fff200?style=for-the-badge&logo=codechef&logoColor=black" />
   </a>
+   <a href="https://codolio.com/profile/pritishsg13" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-4CAF50?style=for-the-badge&logo=codio&logoColor=white" />
+  </a>
 </p>
 
 
