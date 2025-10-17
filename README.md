@@ -16,9 +16,7 @@
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500px" alt="Coding Animation" />
 </p>
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGl6Z3VnM2l0djB4cHpqOGRuNGI1NTJpZXdsdndtc2xqc3Azc28wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxsAcheaMi1PnxPJaf/giphy.gif" width="500px" alt="Roger"/>
-</p>
+
 ---
 
 <h2 align="center">🚀 About Me</h2>
@@ -118,7 +116,4 @@
 
 ---
 
-<!-- 🌊 Animated Wave Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:000000&height=120&section=footer" />
-</p>
+
