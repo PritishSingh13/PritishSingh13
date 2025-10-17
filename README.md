@@ -31,15 +31,14 @@
 <p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500" alt="Hacker Typing Animation"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/coding.gif" width="500" alt="Full Stack Developer Animation"/>
-</p>
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*IRGHmiGsa16stedQvIaZfw.gif" width="500" alt="AI Animation"/>
-</p>
+
 
 
 <h2 align="center">🛠️ Skills & Tools</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/coding.gif" width="500" alt="Full Stack Developer Animation"/>
+</p>
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
@@ -95,6 +94,10 @@
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*IRGHmiGsa16stedQvIaZfw.gif" width="500" alt="AI Animation"/>
+</p>
 
 
 <p align="center">
