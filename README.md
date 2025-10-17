@@ -112,7 +112,16 @@
   <a href="https://github.com/PritishSingh13" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/pritishsg13/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/pritishsg13" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-fff200?style=for-the-badge&logo=codechef&logoColor=black" />
+  </a>
 </p>
+
 
 ---
 
