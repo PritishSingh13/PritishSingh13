@@ -23,7 +23,7 @@
 
 <p align="center" style="max-width: 700px; margin: auto; color: #b0c4de; font-size: 16px;">
   I'm a passionate Software Engineer who loves building <b>AI-powered full-stack applications</b> and creating <b>insightful data visualizations</b>.
-  I focus on clean, efficient, and scalable code — blending creativity with logic to bring ideas to life.
+  I focus on clean, efficient, and scalable code, blending creativity with logic to bring ideas to life.
 </p>
 
 ---
